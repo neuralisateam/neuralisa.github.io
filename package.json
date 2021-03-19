@@ -1,0 +1,39 @@
+{
+    "title": "Landing Page",
+    "name": "MyLandingPage1",
+    "version": "4.1.1",
+    "description": "A simple mobile friendly landing page with responsive web design by using Bootstrap and JQuery",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://github.com/msatyan/MyLandingPage1",
+    "license": "MIT",
+    "author": "Satyan",
+    "contributors": [
+        "Satyan"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/msatyan/MyLandingPage1.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "del": "^3.0.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "simple-line-icons": "^2.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "^1.2.3",
+        "gulp-sass": "4.0.1"
+    }
+}
